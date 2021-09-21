@@ -7,3 +7,4 @@ Fitur :
 4.	New Stage jika Menang
 5.	Stage yang sama jika kalah
 
+Note : Jalankan Di resolusi 1366 x 768
